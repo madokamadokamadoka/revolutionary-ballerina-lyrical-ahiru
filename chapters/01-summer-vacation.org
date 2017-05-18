@@ -1,5 +1,15 @@
 #+OPTIONS: H:1
 #+SETUPFILE: setup.xorg
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [koma,b5paper,oneside,notitlepage]
+#+LATEX_HEADER: \usepackage{indentfirst}
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage[adobe-utopia]{mathdesign}
+#+LATEX_HEADER: \usepackage[scaled]{berasans}
+#+LATEX_HEADER: \usepackage[scaled]{beramono}
+#+LATEX_HEADER: \setlength{\parskip}{1mm}
+
+* Episode 1
 
 *stamp* *stamp* *stamp*
 *stamp* *stamp*
@@ -22,8 +32,10 @@ that just redundant?"
 "... Point."
 
 -----
-"I can't find my Scott Hahn tape," observed Mom.
-[fn::[[https://www.youtube.com/watch?v=P-bz4kRtCQI]]]
+
+"I can't find my [[https://www.youtube.com/watch?v=P-bz4kRtCQI][Scott Hahn]] tape,"
+observed Mom.
+
 "I think I put it in the big luggage."
 
 "Oh thank GOD." said Randy.
@@ -40,9 +52,8 @@ said Laura.
 "Are you kidding? She's like the most -"
 
 "No, I mean, /miss goody two-shoes/ is structurally wrong. It's two
-forms of address. Either she's Goodwife Two-Shoes, or Mistress
+forms of address. Either she's [[https://www.youtube.com/watch?v=P-bz4kRtCQI][Goodwife Two-Shoes]], or Mistress
 Two-Shoes, but both at once is just /incorrect/."
-[fn::[[https://en.wikipedia.org/wiki/The_History_of_Little_Goody_Two-Shoes]]]
 
 "It's redundant." noted Ophelia.
 
@@ -65,8 +76,8 @@ Here we go. Vintage radio drama."
 "You have my attention!" recanted the boy.
 
 "Who knows what evil lurks in the hearts of man? Heh heh heh heh
-heh... the Shadow knows!" intoned the car radio.
-[fn::[[https://www.youtube.com/watch?v=q061NWVbj-Q]]]
+heh... [[https://www.youtube.com/watch?v=q061NWVbj-Q][the Shadow knows!]]" intoned the car radio.
+
 
 -----
 
@@ -74,7 +85,7 @@ They'd run out of vintage radio crime drama, and were bouncing along
 the highway singing a capella.
 
 "Boys may come, and boys may go, and that's all right, you see," wailed
-Laura, channeling Madonna. [fn::[[https://youtu.be/e3wYIjI8WcI?t=185]]]
+Laura, channeling [[https://youtu.be/e3wYIjI8WcI?t=185][Madonna]].
 
 "liv. ing. in a mat erial world," chanted Randy in his most
  robotic impersonation of a backup singer.
@@ -92,8 +103,8 @@ Randy. "Music is even harder."
 
 "Actually, I think the songs make it easier to learn."
 
-"Sure, I guess," said Randy, "if you mean like /Pescador de Hombres/
-or something that Mom always plays."
+"Sure, I guess," said Randy, "if you mean like [[https://www.youtube.com/watch?v=s6qRMHpV7Pc][Pescador de Hombres]] or
+something that Mom always plays."
 
 "We should watch more shows together," proposed Ophelia. "Television
 is also a great way to learn, especially with captions."
@@ -120,21 +131,18 @@ She placed her hand over her heart, passionately.
 
 "Well, you NEED to!" said Laura. "It's basically the bestest."
 
-"No, you two are the bestest! /Dai dai daisuki!/"
-[fn::[[https://www.youtube.com/watch?v=uDgx8r4cbeU]]], smiled Ophelia,
+"No, you two are the bestest! [[https://www.youtube.com/watch?v=uDgx8r4cbeU][Dai dai daisuki!]]" smiled Ophelia,
 hugging them both, one on either side. She leaned her head over to
 nuzzle her cheek up against Randy's.
 
 "Mom! Dad! She's smiling on me! Make her stop."
 
-Dad cleared his throat. "/Come on, people now/."
-[fn::[[https://youtu.be/tsxVGb2d9dw?t=98]]]
+Dad cleared his throat. "[[https://youtu.be/tsxVGb2d9dw?t=98][Come on, people now.]]"
 
 "Aaaaaaaarrrrrrrrggggggggggggghhhhhhh!"
 
 "Okay, here's one you might appreciate right now,"
-offered Laura. '/Urusai, urusai, urusai!/'"
-[fn::[[https://www.youtube.com/watch?v=R229aaDg3Gk]]]
+offered Laura. '[[https://www.youtube.com/watch?v=R229aaDg3Gk][Urusai, urusai, urusai!]]'"
 
 "Here's one for you: /Bwaaaaaaaarrrrrrrrrrrrgh/."
 
@@ -142,7 +150,7 @@ offered Laura. '/Urusai, urusai, urusai!/'"
 
 "Duh. Godzilla."
 
-----
+-----
 
 "We should just stop at one of those guys selling street food," said
 Randy, "and eat in the car."
@@ -152,8 +160,8 @@ dollars cleaning fee."
 
 "Well then, we can stand outside in the shade somewhere."
 
-"Randy. You know what Mom would say. You don't have to /eat like a
-refugee/." [fn::[[https://youtu.be/lC2u_24kdCg?t=42]]] observed Ophelia.
+"Randy. You know what Mom would say. [[https://youtu.be/lC2u_24kdCg?t=42][You don't have to eat like a
+refugee]]." observed Ophelia.
 
 "THIS ONE!" said Mom. "Stop here! It's got a Virgin of Guadalupe in
 front. Ha ha!"
@@ -260,8 +268,7 @@ Mom played her CD.
 
 No one said much of anything for a few minutes.
 
-"Send forth your word", said the CD, "Lord, and let there be light!"
-[fn::[[https://youtu.be/D4hXJ9ax2FY?t=36]]]
+"[[https://youtu.be/D4hXJ9ax2FY?t=36][Send forth your word]]", said the CD, "Lord, and let there be light!"
 
 /braaaaaaaaaaaaaaap/, went a noise.
 
@@ -367,8 +374,7 @@ Randy.
 
 "It won't hurt you," noted Ophelia.
 
-"It burnssssss us!" emoted Randy.
-[fn::[[https://www.youtube.com/watch?v=ap_mEm8m0HU]]]
+"[[https://www.youtube.com/watch?v=ap_mEm8m0HU][It burnssssss us!]]" emoted Randy.
 
 
 "Please, Smeagol. You've been with us how many years? If holy water
