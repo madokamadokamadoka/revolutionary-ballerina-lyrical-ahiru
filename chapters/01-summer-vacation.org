@@ -14,15 +14,15 @@
 *stamp* *stamp* *stamp*
 *stamp* *stamp*
 
-"Feliz cumpleanos", said the border agent to Laura, as he returned
+"/Feliz cumpleanos/," said the border agent to Laura, as he returned
 all the passports in a pile and handed them to Dad, who set about
 collating the immigration cards and sorting them among the family.
 
-Ophelia (age: 12 - citizenship - United States - place of birth -
-Pennsylvania) twirled around *twice* and held the little blue passport
-(issuing authority - US Department of State) high in the air.
-
 "Ophelia Biliski, citizen... of the /world/."
+
+Ophelia (age: 12 - citizenship - United States - place of birth -
+Pennsylvania) twirled around /twice/ and held the little blue passport
+(issuing authority - US Department of State) high in the air.
 
 "Citizen of /crazy-town/ is more like it," observed her brother Randy.
 
@@ -225,7 +225,7 @@ proposed Dad.
 "Another hour and a bit," said Dad.
 
 "Don't worry!" said Mom, holding aloft a CD. "I haven't found Scott
-Hahn but I *have* found some music!"
+Hahn but I /have/ found some music!"
 
 "What? ... Wait - nooooooooooo!" cried Randy.
 
