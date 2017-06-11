@@ -1,7 +1,11 @@
-#+OPTIONS: H:1
-#+SETUPFILE: setup.xorg
+#+OPTIONS: H:4
+#+AUTHOR: nekosensei
+#+TITLE: Revolutionary Ballerina Lyrical Ahiru
+#+OPTIONS: html-postamble:nil
+#+OPTIONS: date:nil creator:nil
+#+OPTIONS: num:nil
 #+LATEX_CLASS: article
-#+LATEX_CLASS_OPTIONS: [koma,b5paper,oneside,notitlepage]
+#+LATEX_CLASS_OPTIONS: [koma,b5paper,oneside,notitle]
 #+LATEX_HEADER: \usepackage{indentfirst}
 #+LATEX_HEADER: \usepackage[T1]{fontenc}
 #+LATEX_HEADER: \usepackage[adobe-utopia]{mathdesign}
@@ -9,7 +13,8 @@
 #+LATEX_HEADER: \usepackage[scaled]{beramono}
 #+LATEX_HEADER: \setlength{\parskip}{1mm}
 
-* Episode 1
+* Episode One
+
 
 
 *stamp* *stamp* *stamp*
@@ -953,4 +958,4 @@ For a short eternity, in a space between worlds, Ophelia danced.
 
 -----
 
-** End Episode 1 **
+*End Episode 1*
